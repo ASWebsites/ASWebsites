@@ -5,9 +5,13 @@ My name is Aaron Shippy, I am a Sophmore (credit-wise), majoring in Computer Sci
 My hobbies include
 
 -Computer Building
+
 -Gaming
+
 -Choir
+
 -Web Design
+
 -3D Modeling
 
 I'm super excited to be here and learn more about Computer Science!
