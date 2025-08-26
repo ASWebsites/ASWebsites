@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sup 🤙
 
-<!--
-**ASWebsites/ASWebsites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aaron Shippy, I am a Sophmore (credit-wise), majoring in Computer Science at The University of Northern Colorado. I'm hoping to have a degree that allows me to have several job opportunities.
 
-Here are some ideas to get you started:
+My hobbies include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Computer Building
+-Gaming
+-Choir
+-Web Design
+-3D Modeling
+
+I'm super excited to be here and learn more about Computer Science!
